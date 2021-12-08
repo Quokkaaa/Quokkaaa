@@ -18,7 +18,7 @@ I enjoy investing 💹, listen Music 🎧, ski ⛷️ and find to nice sushi res
 <img src="https://img.shields.io/badge/-Git-red"/><img src="https://img.shields.io/badge/-Xcode-blue"/>
 
 ## 💁‍♂️ Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quokkaaa&&show_icons=true&theme=gruvbox)] 
+![Quokkaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quokkaaa&&show_icons=true&theme=gruvbox)
 
 <!--
 **Quokkaaa/Quokkaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
