@@ -8,7 +8,7 @@
 
 🔥 I'm basic developer so want to learn 
 
-I enjoy investing 💹, listen to Music 🎧, ski ⛷️ and find to nice sushi restaurant. 🍣
+I enjoy [investing](https://finance.naver.com/) 💹, listen to Music 🎧, ski ⛷️ and find to nice sushi restaurant. 🍣
 
 ## 💪 Skill
 ### Language
