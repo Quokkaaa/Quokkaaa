@@ -2,13 +2,13 @@
 
 
 #### Hi there! 👋 
-📝 I'm cureently learning Swift & SwiftUI
+🌱 I'm cureently learning Swift & SwiftUI
 
 📧 rktrkdml@gmail.com
 
 🔥 I'm basic developer so want to learn 
 
-I enjoy investing 💹, listen Music 🎧, ski ⛷️ and find to nice sushi restaurant. 🍣
+I enjoy investing 💹, listen to Music 🎧, ski ⛷️ and find to nice sushi restaurant. 🍣
 
 ## 💪 Skill
 ### Language
@@ -20,6 +20,8 @@ I enjoy investing 💹, listen Music 🎧, ski ⛷️ and find to nice sushi res
 ## 💁‍♂️ Stats
 ![Quokkaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quokkaaa&&show_icons=true&theme=gruvbox)
 
+## 📝 Blog
+https://swiftlim.tistory.com/
 <!--
 **Quokkaaa/Quokkaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
