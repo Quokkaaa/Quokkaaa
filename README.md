@@ -22,6 +22,10 @@ I enjoy [investing](https://blog.naver.com/rktrkdml) 💹, listen to Music 🎧,
 
 ## 📝 tech Blog
 https://swiftlim.tistory.com/
+
+## Yagom-CareerCamp~ 2022.02.07 ~ 2022.08.07 (ing)
+### [숫자 야구게임 프로젝트](https://github.com/Quokkaaa/YagomCareer-5/blob/NumberBaseBall/README.md), 팀원: 쿼카,로이 / 리뷰어: 제리
+### [묵찌빠 게임](https://github.com/Quokkaaa/ios-rock-paper-scissors/tree/STEP2), 팀원 쿼카,로이 / 리뷰어: 제리
 <!--
 **Quokkaaa/Quokkaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
