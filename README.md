@@ -2,7 +2,7 @@
 
 
 #### Hi there! 👋 
-🌱 I'm cureently learning Swift & SwiftUI
+🌱 I'm cureently learning Swift & iOS
 
 📧 rktrkdml@gmail.com
 
