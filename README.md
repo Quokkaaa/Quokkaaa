@@ -30,7 +30,7 @@ https://swiftlim.tistory.com/
 
 ### 1. ⚾ [숫자 야구게임 프로젝트](https://github.com/Quokkaaa/YagomCareer-5/blob/NumberBaseBall/README.md), Team: [쿼카](https://github.com/Quokkaaa),[로이](https://github.com/Roy-wonji) / Reviewer: [제리](https://github.com/llghdud921)
 ### 2. 👐 [묵찌빠 게임 프로젝트](https://github.com/Quokkaaa/ios-rock-paper-scissors/tree/STEP2), Team: [쿼카](https://github.com/Quokkaaa),[민성](https://github.com/Minseong-yagom) / Reviewer: [제리](https://github.com/llghdud921)
-### 3. 🍹 [쥬스메이커 프로젝트](https://github.com/westeastyear/ios-juice-maker/blob/STEP3/README.md), Team: [쿼카](https://github.com/Quokkaaa),[Donnie](https://github.com/westeastyear) / Reviewer: [](https://github.com/yoo-kie)
+### 3. 🍹 [쥬스메이커 프로젝트](https://github.com/westeastyear/ios-juice-maker/blob/STEP3/README.md), Team: [쿼카](https://github.com/Quokkaaa),[Donnie](https://github.com/westeastyear) / Reviewer: [개굴](https://github.com/yoo-kie)
 <!--
 **Quokkaaa/Quokkaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
