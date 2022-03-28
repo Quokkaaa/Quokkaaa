@@ -25,7 +25,10 @@ I enjoy [investing](https://blog.naver.com/rktrkdml) 💹, listen to Music 🎧,
 ## 📝 tech Blog
 https://swiftlim.tistory.com/
 
-
+## 🧑🏻‍💻 Language
+  
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirstDo&theme=github_dark&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+  
 
 ## Yagom-CareerCamp~ 2022.02.07 ~ 2022.08.07 (ing)
 
