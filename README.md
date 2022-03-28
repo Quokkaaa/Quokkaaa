@@ -12,10 +12,12 @@ I enjoy [investing](https://blog.naver.com/rktrkdml) 💹, listen to Music 🎧,
 
 ## 💪 Skill
 ### Language
-<img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/-Swift-orange"/>
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) 
+<img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
 
 ### Tool
-<img src="https://img.shields.io/badge/-Git-red"/><img src="https://img.shields.io/badge/-Xcode-blue"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 ## 💁‍♂️ Stats
 ![Quokkaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quokkaaa&&show_icons=true&theme=gruvbox)
