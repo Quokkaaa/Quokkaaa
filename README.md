@@ -30,7 +30,7 @@ https://swiftlim.tistory.com/
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirstDo&theme=github_dark&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
   
 
-## Yagom-CareerCamp~ 2022.02.07 ~ 2022.08.07 (ing)
+## 🏕️ Yagom-CareerCamp~ 2022.02.07 ~ 2022.08.07 (ing)
 
 
 ### 1. ⚾ [숫자 야구게임 프로젝트](https://github.com/Quokkaaa/YagomCareer-5/blob/NumberBaseBall/README.md), Team: [쿼카](https://github.com/Quokkaaa),[로이](https://github.com/Roy-wonji) / Reviewer: [제리](https://github.com/llghdud921)
