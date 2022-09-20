@@ -39,6 +39,10 @@ https://swiftlim.tistory.com/
 ### 4. 🧮 [계산기 프로젝트](https://github.com/Quokkaaa/ios-calculator-app/blob/STEP3/README.md), Team: [쿼카](https://github.com/Quokkaaa) / Reviewer: [울라프](https://github.com/1Consumption)
 ### 5. 🌍 [만국박람회 프로젝트](https://github.com/Quokkaaa/ios-exposition-universelle/blob/STEP3/README.md), Team: [쿼카](https://github.com/Quokkaaa),[Tiana](https://github.com/westeastyear) / Reviewer: [울라프](https://github.com/1Consumption)
 ### 6. 🏦 [은행창구매니저 프로젝트](https://github.com/yagom-academy/ios-bank-manager/blob/ic_5_quokka/README.md), Team: [쿼카](https://github.com/Quokkaaa),[Doogie](https://github.com/doogie97) / Reviewer: [Tony](https://github.com/Monsteel)
+### 7. 🏬 [오픈마켓](https://github.com/llingo/ios-open-market/tree/develop), Team: [쿼카](https://github.com/Quokkaaa),[Lingo](https://github.com/llingo) / Reviewer: [hyunable](https://github.com/hyunable)
+### 8. 📔 [일기장](https://github.com/Quokkaaa/ios-diary/tree/STEP3), Team: [쿼카](https://github.com/Quokkaaa),[Taeangel](https://github.com/Taeangel) / Reviewer: [라자냐](https://github.com/wonhee009)
+### 9. 👨🏻‍💻 [프로젝트매니저] (https://github.com/Quokkaaa/ios-project-manager/tree/STEP3-1), Team: [쿼카](https://github.com/Quokkaaa)
+
 
 <!--
 **Quokkaaa/Quokkaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
